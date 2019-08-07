@@ -16,14 +16,20 @@ Headlines allows users to utilize Cheerio, MongoDB, and Axios to scrape article 
 
 Here you can scrape new articles, go to your saved articles, and clear any articles you've scraped!
 
+<br>
+
 ![Front Page2](https://github.com/ssorpg/News-Comments/blob/master/front2.PNG)
 
 At the bottom of the front page would be any articles you've scraped. If you haven't scraped any then instead you'll see links to scrape new articles or to visit your saved articles.
+
+<br>
 
 # Saved Articles
 ![Front Page2](https://github.com/ssorpg/News-Comments/blob/master/saved1.PNG)
 
 From your saved articles page, you can remove any articlees you've saved, and add notes.
+
+<br>
 
 ![Front Page2](https://github.com/ssorpg/News-Comments/blob/master/note1.PNG)
 
